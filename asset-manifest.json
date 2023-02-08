@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HouseBills/static/css/main.345ec4e7.css",
+    "main.js": "/HouseBills/static/js/main.93900a6d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/HouseBills/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/HouseBills/index.html",
+    "main.345ec4e7.css.map": "/HouseBills/static/css/main.345ec4e7.css.map",
+    "main.93900a6d.js.map": "/HouseBills/static/js/main.93900a6d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/HouseBills/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345ec4e7.css",
+    "static/js/main.93900a6d.js"
+  ]
+}
